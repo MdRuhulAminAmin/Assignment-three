@@ -4,3 +4,10 @@
 body{
     font-family: 'Raleway', sans-serif;
 }
+.section-margin{
+    margin-bottom: 130px;
+}
+/* elearning css style */
+.elearning{
+    background-color: #F4FAFD;
+}
