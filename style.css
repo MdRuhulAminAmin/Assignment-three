@@ -16,3 +16,10 @@ body{
 .model-bg{
     background-color: #289BDE;
 }
+/* student Feedback */
+.fa-star {
+    color:goldenrod;
+}
+.semigold{
+    color:gold;
+}
